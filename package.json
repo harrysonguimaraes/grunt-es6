@@ -1,0 +1,11 @@
+{
+  "name": "es-6-project",
+  "version": "0.1.0",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "grunt": "~0.4.5",
+    "grunt-babel": "^7.0.0",
+    "load-grunt-tasks": "^3.5.2"
+  }
+}
